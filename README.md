@@ -10,7 +10,8 @@
 
 <p align="center">
   <a href="https://dattasable.com">🌐 Portfolio</a> •
-  <a href="mailto:sabledattatray.com">📧 Email</a>
+  <a href="mailto:mailto:hello@biexpert.online">📧 Email</a>
+  <a href="mailto:mailto:hello@dattasable.com">📧 Email</a>
 </p>
 
 <p align="center">─── ✦ ───</p>
