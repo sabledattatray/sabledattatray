@@ -1,34 +1,42 @@
-<h2 align="center">Hi 👋, I'm Datta Sable</h2>
-<p align="center">🚀 BI Expert • Data Engineer • AI Builder</p>
+# Hi 👋, I'm Datta Sable
+### BI Expert • Data Architect • Full-Stack Engineer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20%7C%20BI-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Projects-50%2B-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20to-Work-green?style=flat-square">
-  <img src="https://img.shields.io/badge/Profile%20Views-4.67K%2B-blue?style=flat-square">
-</p>
+I specialize in turning chaotic, multi-billion row datasets into high-performance intelligence systems. With over 10 years of experience in the BFSI and Fintech sectors, I build the bridges between raw data and executive strategy.
 
-<p align="center">
-  <a href="https://dattasable.com">🌐 Portfolio</a> •
-  <a href="mailto:mailto:hello@biexpert.online">📧 Email</a>
-  <a href="mailto:mailto:hello@dattasable.com">📧 Email</a>
-</p>
+---
 
-<p align="center">─── ✦ ───</p>
+### 🚀 Featured Project: [dattasable.com](https://dattasable.com)
+**The Data Intelligence OS**
+*A premium platform that transforms raw data into actionable insights using AI-driven analysis and interactive dashboards.*
 
-<p align="center">
-  💡 Turning data into insights <br>
-  📊 BI • Analytics • Automation <br>
-  ⚡ AI-powered systems
-</p>
+- **Stack:** Next.js 15, TypeScript, Prisma ORM, PostgreSQL.
+- **Key Feature:** Real-time architectural auditing and automated MIS reporting pipelines.
+- **Status:** Production Ready.
 
-<p align="center">─── ✦ ───</p>
+---
 
-<p align="center">
-  <b>Stack</b><br>
-  Python • SQL • Power BI • React • Node.js
-</p>
+### 🛠️ Technical Arsenal
 
-<p align="center">─── ✦ ───</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Business Intelligence** | Power BI (DAX Expert), Tableau, Looker |
+| **Data Engineering** | SQL Server, PostgreSQL, ETL Pipelines, Python |
+| **Web Architecture** | Next.js, React, Node.js, TypeScript |
+| **BFSI Specialty** | Fraud Detection, Regulatory Compliance, MIS Automation |
 
-<p align="center"><i>Turning Data into Decisions</i></p>
+---
+
+### 📊 GitHub Stats
+![Datta's Stats](https://github-readme-stats.vercel.app/api?username=sabledattatray&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabledattatray&layout=compact&theme=tokyonight)
+
+---
+
+### 📬 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dattasable)
+[![Email Me](https://img.shields.io/badge/Email-hello%40biexpert.online-blue?style=for-the-badge&logo=gmail)](mailto:hello@biexpert.online)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=react)](https://dattasable.com)
+
+---
+
+> "Turning Data into Decisions, one query at a time."
