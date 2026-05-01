@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://dattasable.com">🌐 Portfolio</a> •
-  <a href="mailto:your-email@example.com">📧 Email</a>
+  <a href="mailto:sabledattatray.com">📧 Email</a>
 </p>
 
 <p align="center">─── ✦ ───</p>
