@@ -9,39 +9,55 @@
 
 ## 🚀 Featured Projects
 
-### 🔷 1. 🔗 [dattasable.com](https://dattasable.com)  
-**The Data Intelligence OS**
+<table>
+<tr>
 
-> A premium platform that transforms raw data into actionable insights using AI-driven analytics and interactive dashboards.
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-Expert-blue?style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/PowerBI-Analytics-yellow?style=for-the-badge&logo=powerbi"/>
-</p>
+<h3>🔷 <a href="https://dattasable.com">dattasable.com</a></h3>
+<b>The Data Intelligence OS</b>
 
----
+<br/>
 
-### 🔷 2. 🔗 [biexpert.online](https://biexpert.online)  
-**Business Intelligence Automation Platform**
+AI-powered platform transforming raw data into actionable insights and interactive dashboards.
 
-> A data-driven platform focused on **MIS reporting, automation, and analytics solutions** for business decision-making.
+<br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Automation-MIS-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BFSI-Analytics-red?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript"/>
+<img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql"/>
+<img src="https://img.shields.io/badge/PowerBI-yellow?style=flat-square&logo=powerbi"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🔷 <a href="https://biexpert.online">biexpert.online</a></h3>
+<b>BI Automation Platform</b>
+
+<br/>
+
+MIS reporting, automation, and analytics system for business intelligence workflows.
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/PowerBI-yellow?style=flat-square&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Automation-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/BFSI-red?style=flat-square"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🧠 What I Do
 
-- Design **high-performance BI dashboards** for large-scale data  
+- Design **high-performance BI dashboards** for large-scale datasets  
 - Build **end-to-end data pipelines (SQL + Python)**  
-- Translate complex datasets into **executive insights**  
+- Translate complex data into **executive decision-making insights**  
 - Develop **full-stack data applications (Next.js + APIs)**  
 
 ---
