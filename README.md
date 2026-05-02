@@ -31,7 +31,6 @@ I specialize in turning chaotic, multi-billion row datasets into high-performanc
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabledattatray&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabledattatray&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
----
 
 ### 📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dattasable)
