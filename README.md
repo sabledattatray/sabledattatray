@@ -7,9 +7,9 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🔗 [dattasable.com](https://dattasable.com)  
+### 🔷 1. 🔗 [dattasable.com](https://dattasable.com)  
 **The Data Intelligence OS**
 
 > A premium platform that transforms raw data into actionable insights using AI-driven analytics and interactive dashboards.
@@ -19,6 +19,20 @@
   <img src="https://img.shields.io/badge/TypeScript-Expert-blue?style=for-the-badge&logo=typescript"/>
   <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql"/>
   <img src="https://img.shields.io/badge/PowerBI-Analytics-yellow?style=for-the-badge&logo=powerbi"/>
+</p>
+
+---
+
+### 🔷 2. 🔗 [biexpert.online](https://biexpert.online)  
+**Business Intelligence Automation Platform**
+
+> A data-driven platform focused on **MIS reporting, automation, and analytics solutions** for business decision-making.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Automation-MIS-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BFSI-Analytics-red?style=for-the-badge"/>
 </p>
 
 ---
