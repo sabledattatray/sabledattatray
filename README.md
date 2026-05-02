@@ -25,11 +25,11 @@ I specialize in turning chaotic, multi-billion row datasets into high-performanc
 | **BFSI Specialty** | Fraud Detection, Regulatory Compliance, MIS Automation |
 
 ---
-
 ### 📊 GitHub Stats
-![Datta's Stats](https://github-readme-stats.vercel.app/api?username=sabledattatray&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabledattatray&layout=compact&theme=tokyonight)
 
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sabledattatray&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabledattatray&layout=compact&theme=tokyonight)
 ---
 
 ### 📬 Connect With Me
