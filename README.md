@@ -2,10 +2,13 @@
 <h3 align="center">BI Expert • Data Architect • Full-Stack Engineer</h3>
 
 <p align="center">
-  Transforming raw data into scalable intelligence systems & business decisions
+ I build scalable data systems that eliminate manual reporting and deliver real-time business intelligence.
 </p>
 
 ---
+<p align="center">
+  ⭐ If you find my work valuable, consider giving a star — it helps more than you think!
+</p>
 
 ## 🚀 Featured Projects
 
