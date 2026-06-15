@@ -106,11 +106,16 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabledattatray&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabledattatray&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabledattatray&show_icons=true&theme=tokyonight&hide_border=true" height="185"/>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabledattatray&layout=compact&theme=tokyonight&hide_border=true" height="185"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
