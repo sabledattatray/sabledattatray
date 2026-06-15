@@ -15,6 +15,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <!-- Project 1: dattasable.com -->
       <h3>🔷 <a href="https://dattasable.com">dattasable.com</a></h3>
       <b>The Data Intelligence OS</b>
       <br/><br/>
@@ -24,21 +25,10 @@
       <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript"/>
       <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=postgresql"/>
       <img src="https://img.shields.io/badge/PowerBI-yellow?style=flat-square&logo=powerbi"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔷 <a href="https://nexdial.io">nexdial.io</a></h3>
-      <b>Unified Communication Inbox & CRM</b>
-      <br/><br/>
-      A lightweight, unified customer inbox and CRM replacing scattered WhatsApp and Excel workflows for small businesses.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
-      <img src="https://img.shields.io/badge/Prisma-black?style=flat-square&logo=prisma"/>
-      <img src="https://img.shields.io/badge/WebRTC-blue?style=flat-square"/>
-      <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+      
+      <br/><br/><hr/><br/>
+      
+      <!-- Project 3: Resume Copilot AI -->
       <h3>🔷 <a href="https://resumecopilotai.vercel.app">Resume Copilot AI</a></h3>
       <b>AI Resume Builder & Optimizer</b>
       <br/><br/>
@@ -50,6 +40,20 @@
       <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css"/>
     </td>
     <td width="50%" valign="top">
+      <!-- Project 2: nexdial.io -->
+      <h3>🔷 <a href="https://nexdial.io">nexdial.io</a></h3>
+      <b>Unified Communication Inbox & CRM</b>
+      <br/><br/>
+      A lightweight, unified customer inbox and CRM replacing scattered WhatsApp and Excel workflows for small businesses.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
+      <img src="https://img.shields.io/badge/Prisma-black?style=flat-square&logo=prisma"/>
+      <img src="https://img.shields.io/badge/WebRTC-blue?style=flat-square"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css"/>
+      
+      <br/><br/><hr/><br/>
+      
+      <!-- Project 4: biexpert.online -->
       <h3>🔷 <a href="https://biexpert.online">biexpert.online</a></h3>
       <b>BI Automation Platform</b>
       <br/><br/>
