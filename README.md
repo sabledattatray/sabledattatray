@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Datta Sable</h1>
-<h3 align="center">BI Expert • Data Architect • Full-Stack Engineer</h3>
+<h3 align="center">I build AI systems that turn raw data into business decisions in seconds.</h3>
 
 <p align="center">
  I build scalable data systems that eliminate manual reporting and deliver real-time business intelligence.
