@@ -178,21 +178,51 @@ With **over a decade of experience** across Management Information Systems (MIS)
       <a href="https://excel.dattasable.com/"><img src="https://img.shields.io/badge/Live%20App-excel.dattasable.com-success?style=flat-square&logo=microsoft-excel" alt="Live App"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏢 <a href="https://biexpert.online/">BIExpert — Reporting Automation</a></h3>
-      <b>Business Intelligence &amp; Operational Analytics Platform</b>
+      <h3>
+        ☁️ <a href="https://fabric.dattasable.com/">
+          Fabric Master — Microsoft Fabric Engineering
+        </a>
+      </h3>
+
+      <b>Capacity Planning, Architecture &amp; FinOps Platform</b>
       <br/><br/>
-      A centralized platform focused on automated MIS reporting, business intelligence workflows, ETL transformation pipelines, and operational dashboard delivery.
+
+      An open-source engineering platform for Microsoft Fabric
+      capacity sizing, cost optimization, architecture planning,
+      and AI-assisted technical guidance.
       <br/><br/>
-      <b>Verified Capabilities:</b>
+
+      <b>Key Capabilities:</b>
       <ul>
-        <li>Custom MIS reporting workflows reducing operational turnaround time</li>
-        <li>Standardized KPI definitions across sales, finance, and logistics</li>
-        <li>Relational database integration for executive decision-making</li>
-        <li>ETL transformation templates for cross-departmental data feeds</li>
+        <li>
+          <b>Capacity Sizing:</b> Estimate Fabric F-SKU requirements
+          across workloads and compute capacities.
+        </li>
+        <li>
+          <b>FinOps &amp; Cost Estimation:</b> Compare Pay-As-You-Go
+          pricing, reserved capacity, and projected costs.
+        </li>
+        <li>
+          <b>Architecture &amp; Performance:</b> Explore OneLake,
+          Direct Lake, Spark sizing, and Power BI capacity planning.
+        </li>
+        <li>
+          <b>AI-Assisted Engineering:</b> Guidance for capacity
+          selection, performance optimization, and migration.
+        </li>
       </ul>
+
       <br/>
-      <a href="https://biexpert.online/"><img src="https://img.shields.io/badge/Platform-biexpert.online-blue?style=flat-square&logo=googlechrome" alt="Platform"/></a>
-      <a href="https://dattasable.com"><img src="https://img.shields.io/badge/Ecosystem-dattasable.com-1769E0?style=flat-square" alt="Ecosystem"/></a>
+
+      <a href="https://fabric.dattasable.com/">
+        <img src="https://img.shields.io/badge/Live_Platform-Fabric_Master-0078D4?style=flat-square&logo=microsoft&logoColor=white"
+             alt="Fabric Master Live Platform"/>
+      </a>
+
+      <a href="https://github.com/sabledattatray/fabric-master">
+        <img src="https://img.shields.io/badge/Open_Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"
+             alt="Fabric Master GitHub Repository"/>
+      </a>
     </td>
   </tr>
 </table>

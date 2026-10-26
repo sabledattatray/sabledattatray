@@ -81,4 +81,6 @@ The profile establishes Datta Sable as an experienced **Senior MIS & Business In
 | **NexusBI Live Web App** | `https://excel.dattasable.com/` | `200 OK` | **PASS** | Browser-based interactive dashboard app. |
 | **DP-600 Study Companion**| `https://github.com/sabledattatray/dp600-study-companion-notebook` | `200 OK` | **PASS** | Microsoft Fabric public study repository. |
 | **Fabric Articles Hub** | `https://fabric.dattasable.com/` | `200 OK` | **PASS** | Fabric technical publication hub. |
+| **Fabric Master Platform** | https://fabric.dattasable.com/ | 200 OK | **PASS** | Fabric capacity planning & FinOps web app. |
+| **Fabric Master Repo** | https://github.com/sabledattatray/fabric-master | 200 OK | **PASS** | Open-source Fabric Master GitHub repository. |
 | **Direct Contact Email** | `mailto:ds@dattasable.com` | `N/A` | **PASS** | Standard mailto protocol link. |
