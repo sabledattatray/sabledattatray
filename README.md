@@ -38,7 +38,7 @@ With **over a decade of experience** across Management Information Systems (MIS)
 
 - **Enterprise Analytics & Modeling:** Designing clean Kimball star schemas, high-cardinality data models, and performant DAX measure libraries that eliminate reporting discrepancies.
 - **BFSI & Operational Collections Exposure:** Extensive background in tracking portfolio risk, bucket movement, delinquency roll rates, recovery pacing, and operational team performance metrics.
-- **Reporting Automation:** Modernizing legacy manual reporting workflows into automated SQL transformations and Power Query pipelines, saving hundreds of operational hours per month.
+- **Reporting Automation:** Modernizing legacy manual reporting workflows into automated SQL transformations and Power Query pipelines, streamlining reporting cycles and eliminating repetitive manual aggregation.
 - **Technical Rigor & Governance:** Adhering strictly to truth in data—implementing multi-currency guardrails, disclosing synthetic data limits, and validating reconciliation reports before publishing executive dashboards.
 
 > **Core Philosophy:** *"Transforming Complex Data into Clear Business Decisions."*
@@ -117,6 +117,10 @@ With **over a decade of experience** across Management Information Systems (MIS)
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/sabledattatray/enterprise-global-business-analytics-3m">
+        <img src="assets/projects/global-analytics.png" alt="Enterprise Global Business Analytics — 3M Records" width="100%" />
+      </a>
+      <br/><br/>
       <h3>🌐 <a href="https://github.com/sabledattatray/enterprise-global-business-analytics-3m">Enterprise Global Business Analytics — 3M Records</a></h3>
       <b>Large-Scale SQL Server &amp; Power BI Data Engineering Pipeline</b>
       <br/><br/>
@@ -124,16 +128,20 @@ With **over a decade of experience** across Management Information Systems (MIS)
       <br/><br/>
       <b>Verified Capabilities:</b>
       <ul>
-        <li><b>3,000,000 rows</b> profiled, typed, and normalized in SQL Server</li>
-        <li><b>P0 Multi-Currency Governance:</b> Enforces strict DAX guardrails isolating 42 local currencies to prevent arithmetic distortion</li>
-        <li><b>6.1 : 1 VertiPaq compression</b> (1.30 GB CSV to 214 MB model)</li>
-        <li><b>414 ms</b> monthly aggregation query benchmark on 3M records</li>
+        <li><b>3,000,000 rows</b> profiled, typed, and normalized in SQL Server 2022</li>
+        <li><b>P0 Multi-Currency Governance:</b> Enforces strict DAX guardrails isolating all 42 transaction currencies via <code>HASONEVALUE()</code> context filters, preventing arithmetic distortion</li>
+        <li><b>6.1 : 1 VertiPaq Columnar Compression:</b> Optimized 1.30 GB uncompressed CSV raw source into a 214 MB performant tabular model</li>
+        <li><b><a href="https://github.com/sabledattatray/enterprise-global-business-analytics-3m/blob/main/tests/sql/run_benchmarks.ps1">414 ms Aggregation Benchmark:</a></b> SQL Server 2022 columnstore query benchmark on 3M records (reproducible via benchmark runner)</li>
       </ul>
       <br/>
       <a href="https://github.com/sabledattatray/enterprise-global-business-analytics-3m"><img src="https://img.shields.io/badge/Repository-GitHub-1769E0?style=flat-square&logo=github" alt="Repo"/></a>
       <a href="https://drive.google.com/file/d/1qT-9U-xVM0GlPSyNEoaroIBIA8X05CmK/view?usp=sharing"><img src="https://img.shields.io/badge/Dataset-1.21GB%20CSV-green?style=flat-square&logo=googledrive" alt="Dataset"/></a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/sabledattatray/enterprise-power-bi-dashboard">
+        <img src="assets/projects/enterprise-power-bi.png" alt="Enterprise Power BI Analytics Dashboard — Executive Overview" width="100%" />
+      </a>
+      <br/><br/>
       <h3>📈 <a href="https://github.com/sabledattatray/enterprise-power-bi-dashboard">Enterprise Power BI Analytics Dashboard</a></h3>
       <b>Nine-Page Executive &amp; Operational Analytics Solution</b>
       <br/><br/>
@@ -141,7 +149,7 @@ With **over a decade of experience** across Management Information Systems (MIS)
       <br/><br/>
       <b>Verified Capabilities:</b>
       <ul>
-        <li><b>Nine structured report pages:</b> Executive, Sales, Product, Channel, Region, Orders, Profitability, Exceptions, and Forecasting</li>
+        <li><b>Nine structured report pages:</b> Executive Overview, Sales Performance, Product Analysis, Transaction &amp; Channel Insights, Region Analysis, Order Details (Drill-Through), Profitability Analysis (Currency-Gated), Order Exceptions &amp; Cancellations, and Strategic Trend Analysis &amp; Forecast Roadmap</li>
         <li>Corporate light design system with glowing digital globe canvas</li>
         <li>Single-direction <code>1:*</code> relationships eliminating ambiguous filter paths</li>
         <li>Drill-through transaction reconciliation across 19 fact dimensions</li>
@@ -296,7 +304,7 @@ As part of my commitment to continuous technical growth and sharing knowledge wi
 I am open to discuss **Senior MIS, Business Intelligence Analyst, Power BI Developer, and Analytics Consulting opportunities** (Remote, International, and Hybrid):
 
 - **Power BI Solutions:** End-to-end dashboard development, DAX optimization, data modeling, and executive report design.
-- **Excel &amp; MIS Automation:** Transforming complex, manual spreadsheet processes into automated, zero-error Power Query and SQL pipelines.
+- **Excel &amp; MIS Automation:** Transforming complex, manual spreadsheet processes into reliable, validated automation workflows and resilient data pipelines.
 - **Enterprise Reporting Frameworks:** Structuring single-source-of-truth KPIs, collections analytics, and operational metrics.
 - **Data Engineering &amp; Preparation:** Cleaning, remodeling, and auditing large datasets for reliable business consumption.
 
