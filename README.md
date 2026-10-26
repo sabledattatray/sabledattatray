@@ -114,13 +114,21 @@ With **over a decade of experience** across Management Information Systems (MIS)
 
 ## 📊 Featured Business Intelligence Projects
 
+<p align="center">
+  <a href="https://github.com/sabledattatray/enterprise-global-business-analytics-3m">
+    <img src="assets/projects/global-analytics.png" alt="Enterprise Global Business Analytics — 3M Records" width="49%" />
+  </a>
+  <a href="https://github.com/sabledattatray/enterprise-power-bi-dashboard">
+    <img src="assets/projects/enterprise-power-bi.png" alt="Enterprise Power BI Analytics Dashboard — Executive Overview" width="49%" />
+  </a>
+</p>
+<p align="center">
+  <sub><i>Left: 3M-Record Data Pipeline Architecture &amp; Analytics • Right: Executive Power BI Analytics Suite (Page 01)</i></sub>
+</p>
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/sabledattatray/enterprise-global-business-analytics-3m">
-        <img src="assets/projects/global-analytics.png" alt="Enterprise Global Business Analytics — 3M Records" width="100%" />
-      </a>
-      <br/><br/>
       <h3>🌐 <a href="https://github.com/sabledattatray/enterprise-global-business-analytics-3m">Enterprise Global Business Analytics — 3M Records</a></h3>
       <b>Large-Scale SQL Server &amp; Power BI Data Engineering Pipeline</b>
       <br/><br/>
@@ -138,10 +146,6 @@ With **over a decade of experience** across Management Information Systems (MIS)
       <a href="https://drive.google.com/file/d/1qT-9U-xVM0GlPSyNEoaroIBIA8X05CmK/view?usp=sharing"><img src="https://img.shields.io/badge/Dataset-1.21GB%20CSV-green?style=flat-square&logo=googledrive" alt="Dataset"/></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/sabledattatray/enterprise-power-bi-dashboard">
-        <img src="assets/projects/enterprise-power-bi.png" alt="Enterprise Power BI Analytics Dashboard — Executive Overview" width="100%" />
-      </a>
-      <br/><br/>
       <h3>📈 <a href="https://github.com/sabledattatray/enterprise-power-bi-dashboard">Enterprise Power BI Analytics Dashboard</a></h3>
       <b>Nine-Page Executive &amp; Operational Analytics Solution</b>
       <br/><br/>
@@ -178,51 +182,21 @@ With **over a decade of experience** across Management Information Systems (MIS)
       <a href="https://excel.dattasable.com/"><img src="https://img.shields.io/badge/Live%20App-excel.dattasable.com-success?style=flat-square&logo=microsoft-excel" alt="Live App"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>
-        ☁️ <a href="https://fabric.dattasable.com/">
-          Fabric Master — Microsoft Fabric Engineering
-        </a>
-      </h3>
-
+      <h3>☁️ <a href="https://fabric.dattasable.com/">Fabric Master — Microsoft Fabric Engineering</a></h3>
       <b>Capacity Planning, Architecture &amp; FinOps Platform</b>
       <br/><br/>
-
-      An open-source engineering platform for Microsoft Fabric
-      capacity sizing, cost optimization, architecture planning,
-      and AI-assisted technical guidance.
+      An open-source engineering platform for Microsoft Fabric capacity sizing, cost optimization, architecture planning, and AI-assisted technical guidance.
       <br/><br/>
-
       <b>Key Capabilities:</b>
       <ul>
-        <li>
-          <b>Capacity Sizing:</b> Estimate Fabric F-SKU requirements
-          across workloads and compute capacities.
-        </li>
-        <li>
-          <b>FinOps &amp; Cost Estimation:</b> Compare Pay-As-You-Go
-          pricing, reserved capacity, and projected costs.
-        </li>
-        <li>
-          <b>Architecture &amp; Performance:</b> Explore OneLake,
-          Direct Lake, Spark sizing, and Power BI capacity planning.
-        </li>
-        <li>
-          <b>AI-Assisted Engineering:</b> Guidance for capacity
-          selection, performance optimization, and migration.
-        </li>
+        <li><b>Capacity Sizing:</b> Estimate Fabric F-SKU requirements across workloads and compute capacities</li>
+        <li><b>FinOps &amp; Cost Estimation:</b> Compare Pay-As-You-Go pricing, reserved capacity, and projected costs</li>
+        <li><b>Architecture &amp; Performance:</b> Explore OneLake, Direct Lake, Spark sizing, and Power BI capacity planning</li>
+        <li><b>AI-Assisted Engineering:</b> Guidance for capacity selection, performance optimization, and migration</li>
       </ul>
-
       <br/>
-
-      <a href="https://fabric.dattasable.com/">
-        <img src="https://img.shields.io/badge/Live_Platform-Fabric_Master-0078D4?style=flat-square&logo=microsoft&logoColor=white"
-             alt="Fabric Master Live Platform"/>
-      </a>
-
-      <a href="https://github.com/sabledattatray/fabric-master">
-        <img src="https://img.shields.io/badge/Open_Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"
-             alt="Fabric Master GitHub Repository"/>
-      </a>
+      <a href="https://fabric.dattasable.com/"><img src="https://img.shields.io/badge/Live_Platform-Fabric_Master-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Fabric Master Live Platform"/></a>
+      <a href="https://github.com/sabledattatray/fabric-master"><img src="https://img.shields.io/badge/Open_Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Fabric Master GitHub Repository"/></a>
     </td>
   </tr>
 </table>
